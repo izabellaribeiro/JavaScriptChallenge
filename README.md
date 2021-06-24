@@ -1,2 +1,2 @@
 # JavaScriptChallenge
-Repositório de pequenos sites com JavaScript Vanilla com o intuito de treinar conceitos. ♥ 
+Repositório de pequenos sites feitos com JavaScript Vanilla com o intuito de treinar conceitos. ♥ 
